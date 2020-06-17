@@ -1,4 +1,4 @@
-welcome to lw cloud
+welcome to Hybrid Multicloud Cloud Training
 <br />
 
 <pre>
